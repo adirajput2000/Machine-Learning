@@ -1,1 +1,3 @@
-<b>Heillow</b>
+A decision tree is a supervised machine learning algorithm used for classification and regression. It works by creating a tree-like model of decisions based on certain features. The tree is made up of internal nodes (questions) and leaves (predictions). The algorithm starts at the root node and asks a series of questions based on the features of the data, until it reaches a leaf node that makes a prediction.
+
+The goal of a decision tree is to create a model that can make predictions with high accuracy by learning simple decision rules inferred from the data features. The rules learned by the tree are in the form of an if-then statement, and are easy to understand and interpret. Decision trees are widely used in machine learning, as they can handle high-dimensional data, missing values, and categorical variables.
